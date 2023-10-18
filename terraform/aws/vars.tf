@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "mystaticsitekb"
+  default = "rm95185"
 }
 
 variable "website_endpoint" {
